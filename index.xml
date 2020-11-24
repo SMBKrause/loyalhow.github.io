@@ -13,12 +13,25 @@
     </image>
     
     <item>
-      <title>None</title>
+      <title>Job advertisement for a PostDoc</title>
       <link>https://loyalhow.github.io/courses/example/example1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://loyalhow.github.io/courses/example/example1/</guid>
       <description>&lt;h2 id=&#34;job-description&#34;&gt;Job Description&lt;/h2&gt;
-&lt;p&gt;No positions available&lt;/p&gt;
+&lt;p&gt;The SMBKrause lab in the School of Ecology and Environmental Sciences at East China Normal University received a 2 years NSFC (National Science Foundation China) funded project, entitled “From taxonomy to microbial functional diversity, a trait-based approach”. This project aims to improve the predictive understanding of microbial-driven biogeochemical cycles to global change by testing a functional-biodiversity approach that links ecological traits of microbes and their ecosystem function. Methane-consuming bacterial communities are used as a model system since these microbes utilize methane, a potent greenhouse gas, and thus, provide a key ecosystem process that is highly relevant to the regulation of the global climate. For more information about the position, or to learn more about the SMBKrause Lab, visit &lt;a href=&#34;https://smbkrause.github.io/&#34;&gt;https://smbkrause.github.io/&lt;/a&gt; or contact Dr. Sascha M.B. Krause at &lt;a href=&#34;mailto:ssa@des.ecnu.edu.cn&#34;&gt;ssa@des.ecnu.edu.cn&lt;/a&gt;. The position is funded for 2 years. The starting date is flexible, but we would like to welcome the new lab member by March 1st, 2021. The postdoctoral researcher will work closely with undergraduate and graduate students. The SMBKrause lab was established in 2019, currently comprises 5 members in total, but keeps growing continuously. For bioinformatics analyses, the group has access to one of East China Normal University’s high-performance computing clusters (Thinksystem SD530) and also owns small servers for local operations.&lt;/p&gt;
+&lt;p&gt;Desired qualifications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A Ph.D. degree or equivalent in the field of microbiology, bioinformatics, or molecular ecology, showing evidence of research experience and productivity&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Background with multi-omics data (mainly metagenomics and/or transcriptomics)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Experience in cultivation/culturing of bacteria&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Excellent written and oral communication skills in English&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The application must be submitted electronically to &lt;a href=&#34;mailto:ssa@des.ecnu.edu.cn&#34;&gt;ssa@des.ecnu.edu.cn&lt;/a&gt; and shall include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;An application letter explaining your motivation and research interests&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CV - summarizing education, positions, and academic work&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Founded in Shanghai in October 1951, East China Normal University (ECNU) is one of the most prestigious universities and has developed rapidly into a comprehensive research university in China. With two beautiful campuses located in the city of Shanghai, and covering a total area of more than 207 hectares, ECNU has long been known as a Garden University. At present, the University has 4 faculties, 30 full-time schools, 4 colleges, 8 advanced research institutes, one college of further education, and one national training center for secondary principals. The university has established exchange and cooperative partnerships with more than 200 internationally renowned universities and academic institutions.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,18 +48,8 @@
       <link>https://loyalhow.github.io/post/postdoc-2021/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://loyalhow.github.io/post/postdoc-2021/</guid>
-      <description>&lt;p&gt;The SMBKrause lab in the School of Ecology and Environmental Sciences at East China Normal University received a 2 years NSFC (National Science Foundation China) funded project, entitled “From taxonomy to microbial functional diversity, a trait-based approach”. This project aims to improve the predictive understanding of microbial-driven biogeochemical cycles to global change by testing a functional-biodiversity approach that links ecological traits of microbes and their ecosystem function. Methane-consuming bacterial communities are used as a model system since these microbes utilize methane, a potent greenhouse gas, and thus, provide a key ecosystem process that is highly relevant to the regulation of the global climate. For more information about the position, or to learn more about the SMBKrause Lab, visit &lt;a href=&#34;https://smbkrause.github.io/&#34;&gt;https://smbkrause.github.io/&lt;/a&gt; or contact Dr. Sascha M.B. Krause at &lt;a href=&#34;mailto:ssa@des.ecnu.edu.cn&#34;&gt;ssa@des.ecnu.edu.cn&lt;/a&gt;.
-The position is funded for 2 years. The starting date is flexible, but we would like to welcome the new lab member by March 1st, 2021. The postdoctoral researcher will work closely with undergraduate and graduate students. The SMBKrause lab was established in 2019, currently comprises 5 members in total, but keeps growing continuously. For bioinformatics analyses, the group has access to one of East China Normal University’s high-performance computing clusters (Thinksystem SD530) and also owns small servers for local operations.&lt;/p&gt;
-&lt;p&gt;Desired qualifications:
-A Ph.D. degree or equivalent in the field of microbiology, bioinformatics, or molecular ecology, showing evidence of research experience and productivity
-Background with multi-omics data (mainly metagenomics and/or transcriptomics)
-Experience in cultivation/culturing of bacteria
-Excellent written and oral communication skills in English
-The application must be submitted electronically to &lt;a href=&#34;mailto:ssa@des.ecnu.edu.cn&#34;&gt;ssa@des.ecnu.edu.cn&lt;/a&gt; and shall include:
-An application letter explaining your motivation and research interests
-CV - summarizing education, positions, and academic work
-2 contact details of job references 
-Founded in Shanghai in October 1951, East China Normal University (ECNU) is one of the most prestigious universities and has developed rapidly into a comprehensive research university in China. With two beautiful campuses located in the city of Shanghai, and covering a total area of more than 207 hectares, ECNU has long been known as a Garden University. At present, the University has 4 faculties, 30 full-time schools, 4 colleges, 8 advanced research institutes, one college of further education, and one national training center for secondary principals. The university has established exchange and cooperative partnerships with more than 200 internationally renowned universities and academic institutions.&lt;/p&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;../../courses/example/example1/&#34;&gt;Check out the latest &lt;strong&gt;updates&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
